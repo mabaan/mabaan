@@ -12,7 +12,7 @@
 <br>
 <!-- Visitor badge and contact links -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F68freeworld%2F68freeworld&label=VISITORS&labelColor=%23000&countColor=%230A0209" /><br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmabaan%2Fmabaan&label=VISITORS&labelColor=%23000&countColor=%230A0209" /><br>
   <a href="https://www.linkedin.com/in/mohammed-abaan-0245ba289/">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile" />
 </a>
@@ -96,13 +96,13 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=68freeworld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabaan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
   <!-- GitHub overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=68freeworld&theme=merko&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mabaan&theme=merko&show_icons=true" alt="GitHub Stats" />
   <!-- GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com/?user=68freeworld&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://streak-stats.demolab.com/?user=mabaan&theme=tokyonight" alt="GitHub Streak" /><br>
   <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=68freeworld&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabaan&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" />
 </div>
 
 <!-- Horizontal divider -->
@@ -110,7 +110,7 @@
 
 <!-- Trophy section using vercel trophy API -->
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=68freeworld&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mabaan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Decorative dev gif + quote -->
 <br><br>
