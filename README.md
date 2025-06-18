@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile" />
 </a>
 
-<a href="https://www.abaan.ct.ws/">
+<a href="https://abaan.ct.ws/?i=1">
   <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=internet-explorer&logoColor=0A0209" alt="Portfolio of Abaan" />
 </a>
 
