@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<img align="right" src="https://github.com/user-attachments/assets/bcc48ddc-d4d6-4aea-8332-6b59761313ad" alt="Photo" width=250px><br /><br />
+<img align="right" src="https://github.com/user-attachments/assets/bcc48ddc-d4d6-4aea-8332-6b59761313ad" alt="Photo" width=200px><br /><br />
 
 <!-- About section with emojis -->
 ### 💫 About Me:
@@ -40,7 +40,7 @@
 <!-- Social icons with animation -->
 ### 🌐 Socials:
 <a href="https://www.linkedin.com/in/mohammed-abaan-0245ba289/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="75" alt="LinkedIn Profile" />
 </a>
 <a href="https://discord.gg/8PbrByhYqF" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Join me on Discord" />
