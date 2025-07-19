@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile" />
 </a>
 
-<a href="https://abaan.ct.ws/?i=1">
+<a href="https://mabaan.com/?i=1">
   <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=internet-explorer&logoColor=0A0209" alt="Portfolio of Abaan" />
 </a>
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email Abaan" />
 </a>
 
-<a href="https://abaan.ct.ws/Mohammed%20Abaan%20Resume.pdf">
+<a href="https://mabaan.com/Mohammed%20Abaan%20Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-d5d5d5?style=for-the-badge&logo=readthedocs&logoColor=0A0209" alt="Resume link" />
 </a>
 </p>
@@ -35,7 +35,7 @@
 <!-- About section with emojis -->
 ### 💫 About Me:
 🎓 I’m currently a 4th year Computer Science student at the American University of Sharjah in the UAE<br>🌱 I’m currently learning about Convolutional Neural Networks<br> 🔭 I have a strong interest in Machine Learning and AI development. <br> 🧠 I enjoy building intelligent systems, training ML models, and exploring data-driven solutions <br>💻 I have hands-on experience with Python, scikit-learn, TensorFlow, and model deployment. <br> 📈 I'm always learning and experimenting with new algorithms, research papers, and real-world applications. <br>
-👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: abaan7500@gmail.com or at www.abaan.ct.ws<br>
+👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: abaan7500@gmail.com or at www.mabaan.com<br>
 
 <!-- Social icons with animation -->
 ### 🌐 Socials:
