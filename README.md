@@ -110,7 +110,12 @@
 
 <!-- Trophy section using vercel trophy API -->
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mabaan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img 
+    src="https://github-trophies.vercel.app/?username=mabaan&theme=discord&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,LongTimeUser,Issues,Commits,PullRequest,Repositories,Stars,Followers&row=2&column=4" 
+    alt="GitHub Trophies" 
+  />
+</p>
 
 <!-- Decorative dev gif + quote -->
 <br><br>
