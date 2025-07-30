@@ -35,7 +35,7 @@
 <!-- About section with emojis -->
 ### 💫 About Me:
 🎓 I’m currently a 4th year Computer Science student at the American University of Sharjah in the UAE<br>🌱 I’m currently learning about Convolutional Neural Networks<br> 🔭 I have a strong interest in Machine Learning and AI development. <br> 🧠 I enjoy building intelligent systems, training ML models, and exploring data-driven solutions <br>💻 I have hands-on experience with Python, scikit-learn, TensorFlow, and model deployment. <br> 📈 I'm always learning and experimenting with new algorithms, research papers, and real-world applications. <br>
-👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: abaan7500@gmail.com or at mabaan.com<br>
+👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: abaan7500@gmail.com or at www.mabaan.com<br>
 
 <!-- Social icons with animation -->
 ### 🌐 Socials:
