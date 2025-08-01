@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<img align="right" src="https://github.com/user-attachments/assets/bcc48ddc-d4d6-4aea-8332-6b59761313ad" alt="Photo" width=200px><br /><br />
+<img align="right" src="https://github.com/user-attachments/assets/f400e102-75db-40e9-8dfe-dad0dd95d598" alt="Photo" width=200px><br /><br />
 
 <!-- About section with emojis -->
 ### 💫 About Me:
