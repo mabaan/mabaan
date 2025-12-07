@@ -96,9 +96,9 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabaan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabaan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br> -->
   <!-- GitHub overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mabaan&theme=merko&show_icons=true" alt="GitHub Stats" /><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mabaan&theme=merko&show_icons=true" alt="GitHub Stats" /><br> -->
   <!-- GitHub Streaks -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mabaan&theme=tokyonight" alt="GitHub Streak" /><br>
   <!-- Contribution graph -->
