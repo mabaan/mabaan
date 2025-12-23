@@ -8,7 +8,7 @@
       
 <!-- Header introduction -->
 <h1 align="center">Hi there, I'm Mohammed Abaan </h1>
-<h3 align="center">Computer Science Student and Full-Stack developer based in Dubai, UAE<h3>
+<h3 align="center">Computer Science Student and AI Engineer based in Dubai, UAE<h3>
 <br>
 <!-- Visitor badge and contact links -->
 <p align="center">
