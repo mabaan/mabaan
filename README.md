@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email Abaan" />
 </a>
 
-<a href="https://mabaan.com/Mohammed%20Abaan%20Resume.pdf">
+<a href="https://www.mabaan.com/assets/Mohammed%20Abaan%20Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-d5d5d5?style=for-the-badge&logo=readthedocs&logoColor=0A0209" alt="Resume link" />
 </a>
 </p>
