@@ -35,7 +35,7 @@
 <!-- About section with emojis -->
 ### 💫 About Me:
 🎓 I’m currently a 4th year Computer Science student at the American University of Sharjah in the UAE<br>🌱 I’m currently learning about Convolutional Neural Networks<br> 🔭 I have a strong interest in Machine Learning and AI development. <br> 🧠 I enjoy building intelligent systems, training ML models, and exploring data-driven solutions <br>💻 I have hands-on experience with Python, scikit-learn, TensorFlow, and model deployment. <br> 📈 I'm always learning and experimenting with new algorithms, research papers, and real-world applications. <br>
-👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: abaan7500@gmail.com or at www.mabaan.com<br>
+👯 I’m willing to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: me@mabaan.com or at mabaan.com<br>
 
 <!-- Social icons with animation -->
 ### 🌐 Socials:
@@ -69,28 +69,23 @@
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- Tech icons from techstack-generator.vercel.app -->
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Storybook" width="65" height="65" />
-  <br><br>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Storybook" width="65" height="65" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
+  </tr>
+</table>
 
 <!-- GitHub stats section -->
 ### 📊 GitHub Stats:
