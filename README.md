@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=internet-explorer&logoColor=0A0209" alt="Portfolio of Abaan" />
 </a>
 
-<a href="mailto:abaan7500@gmail.com">
+<a href="mailto:me@mabaan.com">
   <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email Abaan" />
 </a>
 
